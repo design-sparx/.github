@@ -1,4 +1,10 @@
-## Hi there 👋
+<p align="center">
+<img src="https://github.com/design-sparx/.github/assets/26582923/81208988-2792-41ed-ba24-6158e0eea2d2" alt="design sparx logo" height="100"/>
+</p>
+
+<h4 align="center">Design Sparx</h1>
+
+<p align="center">Weaving ideas into seamless web designs.</p>
 
 <!--
 
